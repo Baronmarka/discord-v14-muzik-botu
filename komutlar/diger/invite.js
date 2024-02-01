@@ -19,7 +19,7 @@ module.exports = {
             .addComponents(
                 new ButtonBuilder()
                     .setLabel("Davet Linkim")
-                    .setURL(`https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=0&scope=bot`)
+                    .setURL(`1202711222420770876client_id=${client.user.id}&permissions=0&scope=bot`)
                     .setEmoji("🔗")
                     .setStyle(ButtonStyle.Link)
             )
